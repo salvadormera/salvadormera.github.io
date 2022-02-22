@@ -1,6 +1,5 @@
-se bienbenido a la mejor pagina salvador mera 
-
-You can use the [editor on GitHub](https://github.com/salvadormera/salvadormera.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# _se bienvenido a la mejor pagina salvador mera_
+## *proyecto de clase* 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
