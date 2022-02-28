@@ -1,29 +1,32 @@
 # _se bienvenido a la mejor pagina salvador mera_
-## *proyecto de clase* 
+## *proyecto de clase*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(https://Salvadormeragithub.com/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# mi experiencia laboral #
+Por el momento no tengo experiencia 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# mis gustos 
+## el fut 
+## la pizza 
+## las papas 
 
-- Bulleted
-- List
+- mis abulidades sociales 
+ 1.  Muy gracioso 
+2. Me gusta platicar 
+3 . Me gusta hacer amigos 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Mis abulidades teclogicas ** 
+_me gusta construir muchas cosas _
 
-[Link](url) and ![Image](src)
-```
+
+```https://Salvadormeragithub.com/
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
