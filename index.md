@@ -3,7 +3,7 @@
 
 (https://Salvadormeragithub.com/)
    
-| [contacto](./contacto) |
+| [contacto](./contacto.md) |
 
 # mi experiencia laboral #
 Por el momento no tengo experiencia 
